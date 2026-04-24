@@ -13,8 +13,9 @@ Feedback Loop: Provides "Higher" or "Lower" hints to guide the user toward the c
 🛠️ Installation & Usage
 To run this project locally, follow these steps:
 
-Navigate to the Folder:
-cd open-guesser
+Navigate to the Folder:cd open-guesser
 
-Run the Script:
-python game.py
+Run the Script:python game.py
+Take note
+1. Ensure you have Python installed.
+2. Run `python game.py` in your terminal.
